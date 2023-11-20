@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarmaKC345
+- 👋 Hi, I’m Kevin Chandra
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python and Android Studio
 - 📫 Reach me with email = chandrakevin81@gmail.com
